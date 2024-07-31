@@ -1,0 +1,43 @@
+body {
+    background-color: #f9c6f4; /* Light pink background */
+    color: #333;
+}
+
+h1, h2 {
+    font-size: 4rem;
+    color: #e83e8c; /* Pink color for headers */
+}
+
+img {
+    border: 5px solid #e83e8c;
+}
+
+.btn-primary {
+    background-color: #e83e8c;
+    border-color: #e83e8c;
+}
+
+.welcome-text {
+    font-size: 2rem;
+    color: #e83e8c;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.intro-text {
+    font-size: 1.25rem;
+    color:black
+}
+.name-text {
+    font-size: 2.3rem;
+    font-weight: bold;
+    color: #e83e8c;
+    
+}
+.profile-img {
+    max-width: 325px;
+}
+.profile-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
